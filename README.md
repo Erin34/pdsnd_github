@@ -29,7 +29,7 @@ Total travel time
 * [pandas](https://pandas.pydata.org/) Python Data Analysis Library 
 * [numpy](http://www.numpy.org/) NumPy library
 * [time](https://docs.python.org/2/library/time.html) Time access and conversions
-* [Udacity](https://udacity.com) Learn the Latest Tech Skills,Advance Your Career Udacity,Udacity’s data Analyst Nanodegree program and their instructors were extremely helpful while I was pursuing this project.
+* [Udacity](https://udacity.com) Learn the Latest Tech Skills, Advance Your Career Udacity, Udacity’s data Analyst Nanodegree program and their instructors were extremely helpful while I was pursuing this project.
 
 
 
